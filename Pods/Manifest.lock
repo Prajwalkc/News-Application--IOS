@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (4.7.0)
+  - Kingfisher (4.6.3)
+  - SJSwiftSideMenuController (1.1.0)
+  - SQLite.swift (0.11.4):
+    - SQLite.swift/standard (= 0.11.4)
+  - SQLite.swift/standard (0.11.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - Kingfisher (~> 4.0)
+  - SJSwiftSideMenuController
+  - SQLite.swift (~> 0.11.4)
+
+SPEC CHECKSUMS:
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  Kingfisher: 98e6d5b5e807645743e8ed5ececd25d688d38452
+  SJSwiftSideMenuController: a7c3922c02891cade136e4ead9c2484dfcd2ed36
+  SQLite.swift: 3e3bee21da701b5b9f87c4a672cb54f233505692
+
+PODFILE CHECKSUM: 9bdd5d85c3a128f082ce68641978b8d6f1df0286
+
+COCOAPODS: 1.4.0
